@@ -1,5 +1,7 @@
 **Content**: the .tex file of my final MSc in Finance Thesis
 
+**Code**: Figure 18 in the Appendix (page 53) also includes a brief STATA code I implemented to automatically run the time-series regressions needed to perform the empirical exercise of the thesis.
+
 **Name of the Thesis**: Factor-based Investing: empirical analysis on style factors during different types of crisis
 
 **Abstract**: Factor-Based investing has become an extensively discussed subject in today’s asset management universe. In particular, by Factor-Based investing one means a set of investment strategies focusing on specific securities characteristics that are fundamental in explaining their risk and return. The aim of this work is to investigate how do risk factors behave during six of the most critical crises of the last thirty years, namely the Asian Crisis of 1997, the 1998 turmoil, the Dot-com Bubble, the 2008 Financial Crisis, the peak of the European Debt Crisis and, most importantly, the COVID-19 Pandemic.
