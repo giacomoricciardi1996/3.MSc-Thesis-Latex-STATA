@@ -2,9 +2,7 @@
 
 **Name of the Thesis**: Factor-based Investing: empirical analysis on style factors during different types of crisis
 
-**Abstract**
-
-Factor-Based investing has become an extensively discussed subject in today’s asset management universe. In particular, by Factor-Based investing one means a set of investment strategies focusing on specific securities characteristics that are fundamental in explaining their risk and return. The aim of this work is to investigate how do risk factors behave during six of the most critical crises of the last thirty years, namely the Asian Crisis of 1997, the 1998 turmoil, the Dot-com Bubble, the 2008 Financial Crisis, the peak of the European Debt Crisis and, most importantly, the COVID-19 Pandemic.
+**Abstract**: Factor-Based investing has become an extensively discussed subject in today’s asset management universe. In particular, by Factor-Based investing one means a set of investment strategies focusing on specific securities characteristics that are fundamental in explaining their risk and return. The aim of this work is to investigate how do risk factors behave during six of the most critical crises of the last thirty years, namely the Asian Crisis of 1997, the 1998 turmoil, the Dot-com Bubble, the 2008 Financial Crisis, the peak of the European Debt Crisis and, most importantly, the COVID-19 Pandemic.
 
 Firstly, factors are built by implementing self-financing strategies, i.e. going long one dimension by shorting the opposite exposure. The two datasets (one world-based and the other US-based) are then subdivided in order to consider the aforementioned crises by also maintaining a robust number of observations.
 
